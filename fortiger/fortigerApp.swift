@@ -11,7 +11,8 @@ import SwiftUI
 struct fortigerApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ContentView()
+            ForumListView()
         }
     }
 }
